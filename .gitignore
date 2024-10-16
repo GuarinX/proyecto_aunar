@@ -1,0 +1,17 @@
+# Entorno virtual
+myvenv/
+venv/
+env/
+__pycache__/
+
+# Archivos de configuración de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de sistema
+*.DS_Store
+*.log
+
+# Archivos generados por Python
+*.pyc
+*.pyo
+*.pyd
